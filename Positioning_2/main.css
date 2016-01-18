@@ -1,0 +1,23 @@
+/* Inserta tu CSS aqui */
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+#caja1{
+	background: #ee3e64;
+	left: 20px;
+	
+}
+#caja2{
+	background: #44accf;
+	right: -220px;
+}
+#caja3{
+	background: #b7d84b;
+	left: 20px;
+}
